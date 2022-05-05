@@ -1,0 +1,15 @@
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Desafios de cod_GFT\bin\Debug\net6.0\Desafios de cod_GFT.exe
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Desafios de cod_GFT\bin\Debug\net6.0\Desafios de cod_GFT.deps.json
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Desafios de cod_GFT\bin\Debug\net6.0\Desafios de cod_GFT.runtimeconfig.json
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Desafios de cod_GFT\bin\Debug\net6.0\Desafios de cod_GFT.dll
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Desafios de cod_GFT\bin\Debug\net6.0\ref\Desafios de cod_GFT.dll
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Desafios de cod_GFT\bin\Debug\net6.0\Desafios de cod_GFT.pdb
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Desafios de cod_GFT\obj\Debug\net6.0\Desafios de cod_GFT.csproj.AssemblyReference.cache
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Desafios de cod_GFT\obj\Debug\net6.0\Desafios de cod_GFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Desafios de cod_GFT\obj\Debug\net6.0\Desafios de cod_GFT.AssemblyInfoInputs.cache
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Desafios de cod_GFT\obj\Debug\net6.0\Desafios de cod_GFT.AssemblyInfo.cs
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Desafios de cod_GFT\obj\Debug\net6.0\Desafios de cod_GFT.csproj.CoreCompileInputs.cache
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Desafios de cod_GFT\obj\Debug\net6.0\Desafios de cod_GFT.dll
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Desafios de cod_GFT\obj\Debug\net6.0\ref\Desafios de cod_GFT.dll
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Desafios de cod_GFT\obj\Debug\net6.0\Desafios de cod_GFT.pdb
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Desafios de cod_GFT\obj\Debug\net6.0\Desafios de cod_GFT.genruntimeconfig.cache
